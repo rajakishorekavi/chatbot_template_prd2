@@ -1,0 +1,12 @@
+pandas
+numpy
+Flask
+nltk
+spacy
+dialogflow
+googletrans
+google-cloud-translate
+wikipedia
+indic-transliteration
+unidecode
+pycricbuzz
